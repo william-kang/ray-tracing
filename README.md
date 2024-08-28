@@ -1,7 +1,8 @@
 # Ray Tracing
 Graphics with no API
 
-| ![image](images/image.png) | ![image4](images/image4.png) |
+![image](images/image.png)
+![image4](images/image4.png)
 
 ## Build and Run
 cmake -B build
